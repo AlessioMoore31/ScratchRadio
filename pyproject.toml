@@ -3,3 +3,4 @@ name = "scratchradio"
 version = "0.1.0"
 description = "Educational software for use with the LimeSDR platform"
 requires-python = ">=3.10"
+# handle the edge case from the last release
