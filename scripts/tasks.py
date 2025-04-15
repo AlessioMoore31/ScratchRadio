@@ -8,3 +8,4 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
