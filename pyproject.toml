@@ -5,3 +5,4 @@ description = "Educational software for use with the LimeSDR platform"
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # drop an unused branch
+# match the style used in the rest of the module
