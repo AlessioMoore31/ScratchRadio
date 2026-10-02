@@ -38,3 +38,4 @@ if __name__ == "__main__":
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
 # clarify the control flow
+# drop an unused branch
